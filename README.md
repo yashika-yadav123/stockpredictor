@@ -19,7 +19,6 @@ Description:
 
 ![ss4](assets/4.png)
 
-Screenshot:
 
 
 ## Installations
